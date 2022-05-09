@@ -28,6 +28,14 @@ Web Developer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
+### Testing Suites
+
+<p align="left">
+<a href="https://jestjs.io" alt="Navigate to Jest home page"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="36" height="36"/></a>
+<a href="https://www.cypress.io" alt="Navigate to Cypress home page"><img src="https://i.imgur.com/F2qBilH.png" alt="Cypress" width="36" height="36"/>
+</a> 
+</p>  
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vedantjaiswal-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vedant.jaiswal1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vedant-jaiswal-8493ab194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
