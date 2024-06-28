@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vedantjaiswal1@gmail.com](mailto:vedantjaiswal1@gmail.com)
-* 🧠  I'm learning Graphql
 
 ### Skills
 
